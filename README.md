@@ -7,4 +7,9 @@
 ![image](https://raw.githubusercontent.com/CaMnter/EasyCountDownTextureView/master/screenshot/textureview_1.gif)    
 
 
-**2.**
+**2.A custom view component that mimics the new Material Design Bottom Navigation pattern**    
+https://github.com/roughike/BottomBar      
+![image](https://raw.githubusercontent.com/roughike/BottomBar/master/demo2-badge.gif),![image](https://raw.githubusercontent.com/roughike/BottomBar/master/scrolling_demo.gif)       
+
+
+**3.**
