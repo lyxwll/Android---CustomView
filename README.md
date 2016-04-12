@@ -17,7 +17,9 @@ https://github.com/Telenav/ExpandablePager
 ![image](https://raw.githubusercontent.com/Telenav/ExpandablePager/master/gif/expandablepager.gif)
 
 
-**4.**
+**4.TriangleLabelView : 显示三角图形的tag**     
+https://github.com/shts/TriangleLabelView       
+<img src="./image/4-1.png" width="30%" height="25%" >
 
 
 
