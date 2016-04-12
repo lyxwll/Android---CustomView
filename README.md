@@ -4,17 +4,18 @@
 
 **1.Easy count down by TextureView：仿手淘倒计时**     
 项目地址:https://github.com/CaMnter/EasyCountDownTextureView      
-![image](https://raw.githubusercontent.com/CaMnter/EasyCountDownTextureView/master/screenshot/textureview_1.gif)    
+<img src="./image/1-1.gif" width="30%" height="25%" >   
 
 
 **2.A custom view component that mimics the new Material Design Bottom Navigation pattern**    
 https://github.com/roughike/BottomBar      
-![image](https://raw.githubusercontent.com/roughike/BottomBar/master/demo2-badge.gif),![image](https://raw.githubusercontent.com/roughike/BottomBar/master/scrolling_demo.gif)       
+<img src="./image/2-1.gif" width="30%" height="25%" >
+<img src="./image/2-2.gif" width="30%" height="25%" >
 
 
 **3.ViewPager that slides vertically.垂直滑动的ViewPage**         
 https://github.com/Telenav/ExpandablePager     
-![image](https://raw.githubusercontent.com/Telenav/ExpandablePager/master/gif/expandablepager.gif)
+<img src="./image/3-1.gif" width="30%" height="25%" >
 
 
 **4.TriangleLabelView : 显示三角图形的tag**     
@@ -22,5 +23,6 @@ https://github.com/shts/TriangleLabelView
 <img src="./image/4-1.png" width="30%" height="25%" >
 
 
+**5.**
 
 
