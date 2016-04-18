@@ -27,7 +27,12 @@ https://github.com/shts/TriangleLabelView
 https://github.com/DevLight-Mobile-Agency/NavigationTabBar      
 
 
-**6.**
+**6.3d旋转切换view , 类似旋转木马效果。**     
+https://github.com/dalong982242260/LoopRotarySwitch     
+
+
+**7.**
+
 
 
 
