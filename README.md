@@ -31,7 +31,15 @@ https://github.com/DevLight-Mobile-Agency/NavigationTabBar
 https://github.com/dalong982242260/LoopRotarySwitch     
 
 
-**7.**
+**7.android 悬浮窗菜单，可在launcher或app中使用**            
+https://github.com/crosg/FloatMenuSample                
+
+ 
+**8.DialogFragment swipeable away like Tinder UI.**            
+https://github.com/kakajika/SwipeAwayDialog            
+
+
+**9.**
 
 
 
