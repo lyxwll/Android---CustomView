@@ -39,7 +39,11 @@ https://github.com/crosg/FloatMenuSample
 https://github.com/kakajika/SwipeAwayDialog            
 
 
-**9.**
+**9.可定制的ViewPagerIndicator,当然不通过ViewPager也可以用.**           
+https://github.com/jiang111/ScalableTabIndicator           
+
+
+**10.**
 
 
 
