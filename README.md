@@ -67,11 +67,15 @@ https://github.com/Nightonke/FaceOffToggleButton
 https://github.com/razerdp/FriendCircle           
 
 
-**16.A Helper for SystemBar include StatusBar and NavigationBar. **               
+**16.A Helper for SystemBar include StatusBar and NavigationBar**               
 https://github.com/H07000223/FlycoSystemBar              
 
 
-**17.**
+**17.用于展示注册进度的view**             
+https://github.com/jiang111/ProgressView               
+
+
+**18.**
 
  
 
