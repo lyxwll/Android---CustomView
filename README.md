@@ -83,10 +83,11 @@ https://github.com/chsmy/DateSelecter
 https://github.com/stephentuso/welcome-android      
 
 
-**20.**
-
+**20.利用三阶贝塞尔曲线模仿QQ空间直播页面右下角的礼物冒泡特效**                
+https://github.com/Yasic/QQBubbleView
  
 
+**21.**
 
 
 
