@@ -91,7 +91,11 @@ https://github.com/Yasic/QQBubbleView
 https://github.com/Modificator/CircleIndicator            
 
 
-**22.**
+**22.一种可根据展开是否超出屏幕来判断父控件是否自动滚动的ExpandableLayout**         
+https://github.com/SilenceDut/ExpandableLayout        
+
+
+**23.**
 
 
 
