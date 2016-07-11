@@ -12,6 +12,9 @@ https://github.com/roughike/BottomBar
 <img src="./image/2-1.gif" width="30%" height="25%" >
 <img src="./image/2-2.gif" width="30%" height="25%" >
 
+**2.1.An bottom navigation bar for Android**      
+https://github.com/tyzlmjj/PagerBottomTabStrip
+
 
 **3.ViewPager that slides vertically.垂直滑动的ViewPage**         
 https://github.com/Telenav/ExpandablePager     
