@@ -95,8 +95,11 @@ https://github.com/Modificator/CircleIndicator
 https://github.com/SilenceDut/ExpandableLayout        
 
 
-**23.**
+**23.An android library which provides a compact calendar view much like the one used in google calenders.**      
+https://github.com/SundeepK/CompactCalendarView
 
+
+**24.**
 
 
 
