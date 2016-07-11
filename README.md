@@ -106,7 +106,11 @@ https://github.com/SundeepK/CompactCalendarView
 https://github.com/cooltechworks/CreditCardView     
 
 
-**25.**
+**25.自定义卡片集view，支持展开收缩滚动**     
+https://github.com/loopeer/CardStackView       
+
+
+**26.**
 
 
 
