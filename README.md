@@ -118,7 +118,13 @@ https://github.com/nekocode/Badge
 https://github.com/baoyachi/StepView      
 
 
-**28.**
+**28.An Android text view with scrolling text change animation**   
+https://github.com/robinhood/ticker     
+
+
+**29.**
+
+
 
 
 
