@@ -138,7 +138,8 @@ https://github.com/w446108264/ScrollableLayout
 https://github.com/yipianfengye/android-adDialog         
 
 
-**33.**
+**33.ViewPager cards inspired by Duolingo**            
+https://github.com/rubensousa/ViewPagerCards
 
 
 
