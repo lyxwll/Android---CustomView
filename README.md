@@ -150,8 +150,23 @@ https://github.com/hzw1199/android_ProcessBar
 https://github.com/JeasonWong/SignUpTransition         
 
 
-**36.**
+**36.SpiderWebScoreView是用于Android上的一个蛛网评分控件**         
+https://github.com/xiaopansky/SpiderWebScoreView                
+https://github.com/RikkaW/MaterialPreference
 
+**37.Android 支持水平和垂直滑动的ViewPager**                   
+https://github.com/DevLight-Mobile-Agency/InfiniteCycleViewPager            
+
+
+**38.可以记住历史选项的spinner**             
+https://github.com/Jasonchenlijian/MemorySpinner            
+
+
+**39.使用方便的的 Material Design 风格 Preference UI，包含一个根据规范自制的新的 SimpleMenuPreference**           
+https://github.com/RikkaW/MaterialPreference
+
+
+**40.**
 
 
 
