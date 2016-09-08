@@ -170,7 +170,11 @@ https://github.com/RikkaW/MaterialPreference
 https://github.com/HotBitmapGG/CreditSesameRingView    
 
 
-**50.**
+**50.RecyclerView实现Card Gallery效果，替代ViewPager方案**      
+https://github.com/huazhiyuan2008/RecyclerViewCardGallery          
+
+
+**51.**
 
 
 
