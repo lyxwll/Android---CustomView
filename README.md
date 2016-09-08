@@ -166,7 +166,11 @@ https://github.com/Jasonchenlijian/MemorySpinner
 https://github.com/RikkaW/MaterialPreference
 
 
-**40.**
+**40.仿支付宝芝麻信用分仪表盘效果**            
+https://github.com/HotBitmapGG/CreditSesameRingView    
+
+
+**50.**
 
 
 
