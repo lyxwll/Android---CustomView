@@ -86,7 +86,10 @@ https://github.com/chsmy/DateSelecter
 https://github.com/stephentuso/welcome-android      
 
 **19.1.带有色彩渐变的新功能引导页**        
-https://github.com/codemybrainsout/ahoy-onboarding          
+https://github.com/codemybrainsout/ahoy-onboarding        
+
+**19.2.Inspired by Heinrich Reimer Material Intro and developed with love from scratch**      
+https://github.com/TangoAgency/material-intro-screen
 
 **20.利用三阶贝塞尔曲线模仿QQ空间直播页面右下角的礼物冒泡特效**                
 https://github.com/Yasic/QQBubbleView
