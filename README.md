@@ -58,7 +58,7 @@ https://github.com/Ramotion/paper-onboarding-android
 https://github.com/hanhailong/FlowTag            
 
 
-**13.This Library helps users to use Bottom Navigation Bar (A new pattern from google) with ease and allows ton of customizations**            
+**13.This Library helps users to use Bottom Navigation Bar (A new pattern from google) with ease and allows ton of customizations**           
 https://github.com/Ashok-Varma/BottomNavigation               
 
 
@@ -85,6 +85,8 @@ https://github.com/chsmy/DateSelecter
 **19.自定义欢迎界面**         
 https://github.com/stephentuso/welcome-android      
 
+**19.1.带有色彩渐变的新功能引导页**        
+https://github.com/codemybrainsout/ahoy-onboarding          
 
 **20.利用三阶贝塞尔曲线模仿QQ空间直播页面右下角的礼物冒泡特效**                
 https://github.com/Yasic/QQBubbleView
