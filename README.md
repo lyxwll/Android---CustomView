@@ -179,7 +179,10 @@ https://github.com/huazhiyuan2008/RecyclerViewCardGallery
 **51.纯用SVG做的Google I/O 2016那个炫酷的时钟**          
 https://github.com/lypeer/GoogleClock           
 
-**52.**
+**52.Android 角标组件效果**          
+https://github.com/czy1121/cornerlabelview         
+
+**53.**
 
 
 
