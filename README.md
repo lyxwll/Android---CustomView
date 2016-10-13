@@ -130,10 +130,8 @@ https://github.com/robinhood/ticker
 **29.电影票在线选座**    
 https://github.com/qifengdeqingchen/SeatTable    
 
-
-**30.图片选择器**    
-https://github.com/917386389/imagepickerdemo    
-
+**30.自动格式化银行卡号的EditText，每四位增加一个空格，并根据银行卡号判断该银行卡归属的银行及卡别**          
+https://github.com/smuyyh/BankCardFormat          
 
 **31.Add a headview for any view and supports sticking the navigator on the top when ItemView scrolls.**    
 https://github.com/w446108264/ScrollableLayout    
