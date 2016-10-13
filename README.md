@@ -66,8 +66,7 @@ https://github.com/Ashok-Varma/BottomNavigation
 https://github.com/Nightonke/FaceOffToggleButton               
 
 
-**15.朋友圈图片查看**              
-https://github.com/razerdp/FriendCircle           
+**15.**     
 
 
 **16.A Helper for SystemBar include StatusBar and NavigationBar**               
