@@ -185,7 +185,10 @@ https://github.com/lypeer/GoogleClock
 **52.Android 角标组件效果**          
 https://github.com/czy1121/cornerlabelview         
 
-**53.**
+**53.A download progressbar with cool animation**               
+https://github.com/dudu90/FreshDownloadView       
+
+**54.**
 
 
 
