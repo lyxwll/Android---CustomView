@@ -66,15 +66,18 @@ https://github.com/Ashok-Varma/BottomNavigation
 https://github.com/Nightonke/FaceOffToggleButton               
 
 
-**15.**     
-
+**15.一个别致的环形菜单**      
+https://github.com/Hitomis/CircleMenu        
 
 **16.A Helper for SystemBar include StatusBar and NavigationBar**               
 https://github.com/H07000223/FlycoSystemBar              
 
 
 **17.用于展示注册进度的view**             
-https://github.com/jiang111/ProgressView               
+https://github.com/jiang111/ProgressView              
+
+**17.1.带有动态效果的表单引导进度**     
+https://github.com/VictorAlbertos/BreadcrumbsView    
 
 
 **18.基于第三方WheelView 实现的一个时间选择器**                  
