@@ -81,14 +81,7 @@ https://github.com/jiang111/ProgressView
 https://github.com/chsmy/DateSelecter          
 
 
-**19.自定义欢迎界面**         
-https://github.com/stephentuso/welcome-android      
-
-**19.1.带有色彩渐变的新功能引导页**        
-https://github.com/codemybrainsout/ahoy-onboarding        
-
-**19.2.Inspired by Heinrich Reimer Material Intro and developed with love from scratch**      
-https://github.com/TangoAgency/material-intro-screen
+**19.**
 
 **20.利用三阶贝塞尔曲线模仿QQ空间直播页面右下角的礼物冒泡特效**                
 https://github.com/Yasic/QQBubbleView
@@ -102,11 +95,7 @@ https://github.com/Modificator/CircleIndicator
 https://github.com/SilenceDut/ExpandableLayout        
 
 
-**23.An android library which provides a compact calendar view much like the one used in google calenders.**      
-https://github.com/SundeepK/CompactCalendarView       
-
-**23.1.显示阳历，农历，节假日和二十四节气 实现对某月日期的单选或者多选的andorid 日历控件库。**       
-https://github.com/myjoybar/android-calendar-view       
+**23.     
 
 
 **24.酷炫信用卡View**     
