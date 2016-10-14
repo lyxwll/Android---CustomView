@@ -81,7 +81,8 @@ https://github.com/VictorAlbertos/BreadcrumbsView
 https://github.com/chsmy/DateSelecter          
 
 
-**19.**
+**19.自定义EditText实现右下角计数控件**            
+https://github.com/FTandJYQ/AnFQNumEditText
 
 **20.利用三阶贝塞尔曲线模仿QQ空间直播页面右下角的礼物冒泡特效**                
 https://github.com/Yasic/QQBubbleView
