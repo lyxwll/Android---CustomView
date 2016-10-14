@@ -6,7 +6,6 @@
 项目地址:https://github.com/CaMnter/EasyCountDownTextureView      
 <img src="./image/1-1.gif" width="30%" height="25%" >   
 
-
 **2.A custom view component that mimics the new Material Design Bottom Navigation pattern**    
 https://github.com/roughike/BottomBar      
 <img src="./image/2-1.gif" width="30%" height="25%" >
@@ -20,11 +19,9 @@ https://github.com/tyzlmjj/PagerBottomTabStrip
 https://github.com/Telenav/ExpandablePager     
 <img src="./image/3-1.gif" width="30%" height="25%" >
 
-
 **4.TriangleLabelView : 显示三角图形的tag**     
 https://github.com/shts/TriangleLabelView       
 <img src="./image/4-1.png" width="30%" height="25%" >
-
 
 **5.Navigation tab bar with colorful interactions.**    
 https://github.com/DevLight-Mobile-Agency/NavigationTabBar      
@@ -98,7 +95,8 @@ https://github.com/Modificator/CircleIndicator
 https://github.com/SilenceDut/ExpandableLayout        
 
 
-**23.     
+**23.一款漂亮的 Bottom Sheet 选择器**     
+https://github.com/philliphsu/BottomSheetPickers
 
 
 **24.酷炫信用卡View**     
