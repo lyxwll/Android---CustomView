@@ -179,7 +179,10 @@ https://github.com/czy1121/cornerlabelview
 **53.一个展示下载进度的View，下载完成和失败的时候会有酷酷的动画.**               
 https://github.com/dudu90/FreshDownloadView       
 
-**54.**
+**54.自定义 自动补充 email 的 EditTextAuto Fill the custom email to EditText**         
+https://github.com/wangshaolei/AutoFillEmailEditText           
+
+**55.**
 
 
 
