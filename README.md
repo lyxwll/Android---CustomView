@@ -169,7 +169,6 @@ https://github.com/HotBitmapGG/CreditSesameRingView
 **50.RecyclerView实现Card Gallery效果，替代ViewPager方案**      
 https://github.com/huazhiyuan2008/RecyclerViewCardGallery          
 
-
 **51.纯用SVG做的Google I/O 2016那个炫酷的时钟**          
 https://github.com/lypeer/GoogleClock           
 
@@ -182,12 +181,10 @@ https://github.com/dudu90/FreshDownloadView
 **54.自定义 自动补充 email 的 EditTextAuto Fill the custom email to EditText**         
 https://github.com/wangshaolei/AutoFillEmailEditText           
 
-**55.**
+**55.类似手机QQ界面右上角的弹出菜单，使用recyclerview和popupwindow封装了一下.**
+https://github.com/zaaach/TopRightMenu       
 
-
-
-
-
+**56.**
 
 
 
