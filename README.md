@@ -184,11 +184,10 @@ https://github.com/wangshaolei/AutoFillEmailEditText
 **55.类似手机QQ界面右上角的弹出菜单，使用recyclerview和popupwindow封装了一下.**
 https://github.com/zaaach/TopRightMenu       
 
-**56.**
+**56.一款漂亮的周日历组件A simple weekly calendar.**         
+https://github.com/nomanr/weekcalendar     
 
-
-
-
+**57.**           
 
 
 
