@@ -187,11 +187,13 @@ https://github.com/zaaach/TopRightMenu
 **56.一款漂亮的周日历组件A simple weekly calendar.**         
 https://github.com/nomanr/weekcalendar     
 
-**57.**           
+**57.比原生 Snack 更漂亮的 Bottom Notification 库Snacky is a small library to help you adding a Snackbar to your android project.**        https://github.com/matecode/Snacky         
 
+**58.**       
 
+**59.**          
 
-
+**60.**
 
 
 
