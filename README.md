@@ -14,7 +14,6 @@ https://github.com/roughike/BottomBar
 **2.1.An bottom navigation bar for Android**      
 https://github.com/tyzlmjj/PagerBottomTabStrip
 
-
 **3.ViewPager that slides vertically.垂直滑动的ViewPage**         
 https://github.com/Telenav/ExpandablePager     
 <img src="./image/3-1.gif" width="30%" height="25%" >
@@ -26,10 +25,8 @@ https://github.com/shts/TriangleLabelView
 **5.Navigation tab bar with colorful interactions.**    
 https://github.com/DevLight-Mobile-Agency/NavigationTabBar      
 
-
 **6.3d旋转切换view , 类似旋转木马效果。**     
 https://github.com/dalong982242260/LoopRotarySwitch     
-
 
 **7.android 悬浮窗菜单，可在launcher或app中使用**            
 https://github.com/crosg/FloatMenuSample                
@@ -166,7 +163,8 @@ https://github.com/czy1121/roundbutton
 **59.滚动播放的公告控件(仿京东淘宝)**       
 https://github.com/czy1121/noticeview
 
-**60.**
+**60.简单易用的可定制展开角度的button menu**      
+https://github.com/uin3566/AllAngleExpandableButton
 
 **61.**
 
