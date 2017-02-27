@@ -169,7 +169,8 @@ https://github.com/uin3566/AllAngleExpandableButton
 **61.简洁风格的日历 View**      
 https://github.com/recruit-mp/LightCalendarView        
 
-**62.**
+**62.Android TextView that can expand and collapse.**          
+https://github.com/Chen-Sir/ExpandableTextView
 
 **63.**
 
